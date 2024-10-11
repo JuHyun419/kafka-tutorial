@@ -1,0 +1,8 @@
+### Send POST request with json body
+POST http://localhost:8080/api/publish
+Content-Type: application/json
+
+{
+  "name": "JH2",
+  "message": "Hello World"
+}
